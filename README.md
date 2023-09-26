@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning [React](https://react.dev/)
 -
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8 alt="bootstrap-colored" width="36" height="36" max-width="100">
-
 <img src=(https://github.com/arunnintriva/arunnintriva/assets/68312594/797fe32f-70ad-4536-8f2d-d53f72fa7a87 alt="bootstrap-colored" width="36" height="36" max-width="100">
 <img src=(https://github.com/arunnintriva/arunnintriva/assets/68312594/3125d0e7-a3a8-4e2c-a0e4-390f66d88984 alt="bootstrap-colored" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/44363c78-5fad-4c6c-9ee5-b4fa9daf17bc alt="bootstrap-colored" width="36" height="36" max-width="100">
