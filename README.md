@@ -1,4 +1,4 @@
-
+![figma-colored]()
 ### Hi 👋 I am Arun
 
 - 🌏 I’m from Kochi ,India
@@ -14,6 +14,7 @@
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/44363c78-5fad-4c6c-9ee5-b4fa9daf17bc alt="CSS3" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/39eb60f1-d0f3-4747-9e4a-79c1e006d2d3 alt="SASS" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/8f52330a-a903-4bb5-a3d5-e3e7e846b2fe alt="HTML%" width="36" height="36" max-width="100">
+<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5a134eca-945d-40f5-8c45-7a48678133a4 alt="HTML%" width="36" height="36" max-width="100">
 
 
 ### 📫 How to reach me: ...
@@ -30,4 +31,5 @@
 </a>
 </div>
 
+![Uploading figma-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#0acf83" d="M45.5 129c11.9 0 21.5-9.6 21.5-21.5V86H45.5C33.6 86 24 95.6 24 107.5S33.6 129 45.5 129zm0 0"/><path fill="#a259ff" d="M24 64.5C24 52.6 33.6 43 45.5 43H67v43H45.5C33.6 86 24 76.4 24 64.5zm0 0"/><path fill="#f24e1e" d="M24 21.5C24 9.6 33.6 0 45.5 0H67v43H45.5C33.6 43 24 33.4 24 21.5zm0 0"/><path fill="#ff7262" d="M67 0h21.5C100.4 0 110 9.6 110 21.5S100.4 43 88.5 43H67zm0 0"/><path fill="#1abcfe" d="M110 64.5c0 11.9-9.6 21.5-21.5 21.5S67 76.4 67 64.5 76.6 43 88.5 43 110 52.6 110 64.5zm0 0"/></svg>colored.svg…]()
 
