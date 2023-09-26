@@ -23,7 +23,7 @@
  <a href="https://github.com/arunnintriva/arunnintriva">
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41" alt="GitHub" width="35" height="35">
 </a>
- <a href="https://www.linkedin.com/in/arun-raju-05374a1b7">
+<a href="https://www.linkedin.com/in/arun-raju-05374a1b7">
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/3c132fe4-03d2-48ef-ac82-978ef3ef7b23" alt="LinkedIn" width="35" height="35">
 </a>
  <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D">
