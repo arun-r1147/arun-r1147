@@ -14,7 +14,7 @@
 
 
 ### 📫 How to reach me: ...
-- [mail] <a href="mailto:arunraju9837@gmail.com?">
-- [https://www.linkedin.com/in/arun-raju-05374a1b7] <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5cd52820-1857-4081-99ae-47805ea15aba width="36" height="36" max-width="100">
+- [ ] <a href="mailto:arunraju9837@gmail.com?">
+- [ ](https://www.linkedin.com/in/arun-raju-05374a1b7) <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5cd52820-1857-4081-99ae-47805ea15aba width="36" height="36" max-width="100">
 
 
