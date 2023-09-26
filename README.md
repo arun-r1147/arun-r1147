@@ -4,6 +4,7 @@
 - 🌏 I’m from Kochi ,India
 - 🌱 I’m currently learning [React](https://react.dev/)
 
+### Skills
 <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/2f81ec8e-482f-478d-9948-1c0d68bd2c8b" alt="TypeScript" width="36" height="36" max-width="100">
 <img src =https://github.com/arunnintriva/arunnintriva/assets/68312594/7cf2d08f-1af4-4b0b-b281-54a9ff047a61  alt="JavaScript" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b4167279-ff73-4d8d-9eac-7cc81dc6c220 alt="Angular" width="36" height="36" max-width="100">
@@ -15,9 +16,9 @@
 
 ### 📫 How to reach me: ...
 - [ ] <a href="mailto:arunraju9837@gmail.com?">
-- [ ](https://www.linkedin.com/in/arun-raju-05374a1b7) <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5cd52820-1857-4081-99ae-47805ea15aba width="36" height="36" max-width="100">
+- [ ] (https://www.linkedin.com/in/arun-raju-05374a1b7) <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5cd52820-1857-4081-99ae-47805ea15aba width="36" height="36" max-width="100">
 - [ ] <img src=(https://github.com/arunnintriva/arunnintriva/assets/68312594/d2cbbb16-d27b-4b83-84e4-0b6a99e70152 alt="HTML%" width="36" height="36" max-width="100">
-- [ ] <img src=(https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41 alt="HTML%" width="36" height="36" max-width="100">
+- [ ] (https://github.com/arunnintriva/arunnintriva) <img src=(https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41 alt="HTML%" width="36" height="36" max-width="100">
 
 
 
