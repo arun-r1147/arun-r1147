@@ -4,7 +4,9 @@
 - 🌏 I’m from Kochi ,India
 - 🌱 I’m currently learning [React](https://react.dev/)
 
-### Skills
+<a  style=" color: var(--fgColor-accent, var(--color-accent-fg));
+    text-decoration: none";
+}>Skills</a>
 <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/2f81ec8e-482f-478d-9948-1c0d68bd2c8b" alt="TypeScript" width="36" height="36" max-width="100">
 <img src =https://github.com/arunnintriva/arunnintriva/assets/68312594/7cf2d08f-1af4-4b0b-b281-54a9ff047a61  alt="JavaScript" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b4167279-ff73-4d8d-9eac-7cc81dc6c220 alt="Angular" width="36" height="36" max-width="100">
