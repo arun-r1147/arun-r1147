@@ -4,10 +4,8 @@
 - 🌏 I’m from Kochi ,India
 - 🌱 I’m currently learning [React](https://react.dev/)
 -
-![bootstrap-colored](https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8)
-![bootstrap-colored](<img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8" alt="bootstrap-colored" width="36" height="36">
-)
-<img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8" alt="Alt Text" width="36" height="36">
+![bootstrap-colored]<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8 alt="bootstrap-colored" width="36" height="36">
+![bootstrap-colored]<img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8" alt="bootstrap-colored" width="36" height="36">
 
 ![javascript-colored](https://github.com/arunnintriva/arunnintriva/assets/68312594/797fe32f-70ad-4536-8f2d-d53f72fa7a87)
 ![html5-colored](https://github.com/arunnintriva/arunnintriva/assets/68312594/3125d0e7-a3a8-4e2c-a0e4-390f66d88984)
