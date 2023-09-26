@@ -17,6 +17,8 @@
 - [ ] <a href="mailto:arunraju9837@gmail.com?">
 - [ ](https://www.linkedin.com/in/arun-raju-05374a1b7) <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5cd52820-1857-4081-99ae-47805ea15aba width="36" height="36" max-width="100">
 - [ ] <img src=(https://github.com/arunnintriva/arunnintriva/assets/68312594/d2cbbb16-d27b-4b83-84e4-0b6a99e70152 alt="HTML%" width="36" height="36" max-width="100">
+- [ ] <img src=(https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41 alt="HTML%" width="36" height="36" max-width="100">
+
 
 
 
