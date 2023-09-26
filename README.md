@@ -21,13 +21,13 @@
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41" alt="GitHub" width="35" height="35">
 </a>
  <a href="https://www.linkedin.com/in/arun-raju-05374a1b7">
-  <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/3c132fe4-03d2-48ef-ac82-978ef3ef7b23 =35x35" alt="LinkedIn" width="35" height="35">
+  <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/3c132fe4-03d2-48ef-ac82-978ef3ef7b23" alt="LinkedIn" width="35" height="35">
 </a>
  <a href="https://github.com/arunnintriva/arunnintriva">
-  <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/0f3a8f3a-4769-43cc-b2d3-45f4d657c830 =35x35" alt="Instagram" width="35" height="35">
+  <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/9d42e0cc-a4a4-4cd8-92c3-712ae92e7540" alt="Instagram" width="35" height="35">
 </a>
 </div>
 
 
-![instagram](https://github.com/arunnintriva/arunnintriva/assets/68312594/9d42e0cc-a4a4-4cd8-92c3-712ae92e7540)
+![instagram]()
 
