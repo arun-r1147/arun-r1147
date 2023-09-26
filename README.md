@@ -11,9 +11,7 @@
 <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/2f81ec8e-482f-478d-9948-1c0d68bd2c8b" alt="Image 2 Alt Text" width="36" height="36" max-width="100">
 
 
-
-
-##📫 How to reach me: ...
+### 📫 How to reach me: ...
 - [mail] <a href="mailto:arunraju9837@gmail.com?">
 - [Linkedin](https://www.linkedin.com/in/arun-raju-05374a1b7)
 &nbsp;
