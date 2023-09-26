@@ -1,4 +1,4 @@
-![figma-colored](https://github.com/arunnintriva/arunnintriva/assets/68312594/94a3bb86-df84-4f83-91ff-7af362710d59)
+
 ### Hi 👋 I am Arun
 
 - 🌏 I’m from Kochi ,India
