@@ -16,9 +16,14 @@
 
 ### 📫 How to reach me: ...
 - [ ] <a href="mailto:arunraju9837@gmail.com?">
-- [![Alt Text](https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41 =35x35)](https://github.com/arunnintriva/arunnintriva)
 - <a href="https://github.com/arunnintriva/arunnintriva">
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/dff84cdf-5bb1-4955-ba8c-03527d0a1c41" alt="Alt Text" width="35" height="35">
+</a>
+- <a href="https://www.linkedin.com/in/arun-raju-05374a1b7">
+  <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/d2cbbb16-d27b-4b83-84e4-0b6a99e70152 =35x35" alt="Alt Text" width="35" height="35">
+</a>
+- <a href="https://github.com/arunnintriva/arunnintriva">
+  <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/5cd52820-1857-4081-99ae-47805ea15aba =35x35" alt="Alt Text" width="35" height="35">
 </a>
 
 
