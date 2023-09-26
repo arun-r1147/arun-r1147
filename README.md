@@ -25,7 +25,7 @@
  <a href="https://www.linkedin.com/in/arun-raju-05374a1b7">
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/3c132fe4-03d2-48ef-ac82-978ef3ef7b23" alt="LinkedIn" width="35" height="35">
 </a>
- <a href="https://github.com/arunnintriva/arunnintriva">
+ <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D">
   <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/9d42e0cc-a4a4-4cd8-92c3-712ae92e7540" alt="Instagram" width="35" height="35">
 </a>
 </div>
