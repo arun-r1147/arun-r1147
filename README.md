@@ -2,7 +2,6 @@
 ### Hi 👋 I am Arun
 
 - 🌏 I’m from Kochi ,India
-- 🌱 I’m currently learning [React](https://react.dev/)
 
 <a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
 ">Skills</a>
@@ -32,6 +31,10 @@
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5a134eca-945d-40f5-8c45-7a48678133a4 alt="Figma" width="36" height="36" max-width="100">
 </a>
 <br/>
+
+
+
+
 
 
 - 🌱 I’m currently learning these...
