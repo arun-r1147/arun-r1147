@@ -31,7 +31,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5a134eca-945d-40f5-8c45-7a48678133a4 alt="Figma" width="36" height="36" max-width="100">
 </a>
-
+<br/>
 
 
 - 🌱 I’m currently learning these...
