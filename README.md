@@ -16,6 +16,8 @@
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/8f52330a-a903-4bb5-a3d5-e3e7e846b2fe alt="HTML%" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5a134eca-945d-40f5-8c45-7a48678133a4 alt="HTML%" width="36" height="36" max-width="100">
 
+<a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
+">also i know the basics these...</a>
 
 ### 📫 How to reach me: ...
 <div >
