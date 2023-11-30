@@ -34,8 +34,7 @@
 
 
 
-<a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
-">- 🌱 I’m currently learning these</a>
+- 🌱 I’m currently learning these...
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node JS">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
