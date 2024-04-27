@@ -3,7 +3,7 @@
 
  🌏 I’m from Kochi ,India
 
-#### Front end Developer
+### Front end Developer
  
  ------------------------------------------------------------------------
 
