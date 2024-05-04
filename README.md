@@ -1,8 +1,8 @@
 
 ### Hi 👋 I am Arun
 
- 💻 I work as a Front end Developer
- 🌏 I’m from Kochi ,India
+* 💻 I work as a Front end Developer
+* 🌏 I’m from Kochi ,India
 
  ------------------------------------------------------------------------
 
