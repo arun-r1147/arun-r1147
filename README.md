@@ -26,13 +26,13 @@
  <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white&color=black"/>
 </a>
 <a href="https://www.linkedin.com/in/arun-raju-05374a1b7" target="_blank" rel="noreferrer">
-  <img src="https://github.com/arun-r1147/arun-r1147/assets/68312594/3c132fe4-03d2-48ef-ac82-978ef3ef7b23" alt="LinkedIn" width="35" height="35">
+  <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white&color=black&link=background%3D%22black%22
+">
 </a>
  <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noreferrer">
-  <img src="https://github.com/arun-r1147/arun-r1147/assets/68312594/9d42e0cc-a4a4-4cd8-92c3-712ae92e7540" alt="Instagram" width="35" height="35">
+ <img src="https://img.shields.io/badge/INSTAGRAM-rose?style=for-the-badge&logo=instagram&logoColor=black&labelColor=white&color=black
+"/>
 </a>
-
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
 </div>
 
  ------------------------------------------------------------------------
