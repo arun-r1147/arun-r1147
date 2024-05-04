@@ -10,48 +10,15 @@
 <a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
 ">Skills</a>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-<img src="https://github.com/arun-r1147/arun-r1147/assets/68312594/2f81ec8e-482f-478d-9948-1c0d68bd2c8b" alt="TypeScript" width="36" height="36" max-width="100">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-<img src =https://github.com/arun-r1147/arun-r1147/assets/68312594/7cf2d08f-1af4-4b0b-b281-54a9ff047a61  alt="JavaScript" width="36" height="36" max-width="100">
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular">
-<img src=https://github.com/arun-r1147/arun-r1147/assets/68312594/b4167279-ff73-4d8d-9eac-7cc81dc6c220 alt="Angular" width="36" height="36" max-width="100">
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
-<img src=https://github.com/arun-r1147/arun-r1147/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8 alt="bootstrap-colored" width="36" height="36" max-width="100">
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS3">
-<img src=https://github.com/arun-r1147/arun-r1147/assets/68312594/44363c78-5fad-4c6c-9ee5-b4fa9daf17bc alt="CSS3" width="36" height="36" max-width="100">
-</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS">
-<img src=https://github.com/arun-r1147/arun-r1147/assets/68312594/39eb60f1-d0f3-4747-9e4a-79c1e006d2d3 alt="SASS" width="36" height="36" max-width="100">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5">
-<img src=https://github.com/arun-r1147/arun-r1147/assets/68312594/8f52330a-a903-4bb5-a3d5-e3e7e846b2fe alt="HTML%" width="36" height="36" max-width="100">
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-<img src=https://github.com/arun-r1147/arun-r1147/assets/68312594/5a134eca-945d-40f5-8c45-7a48678133a4 alt="Figma" width="36" height="36" max-width="100">
-</a>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)  ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 <br/>
 
  ------------------------------------------------------------------------
 
 
 #### 🌱 I’m currently learning these...
-
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node JS">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-</a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express JS">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-</a>
-
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" title="Next JS">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-</a>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
  ------------------------------------------------------------------------
 
