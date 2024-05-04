@@ -32,8 +32,7 @@
  <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=black&labelColor=white&color=black"/>
 </a>
   <a href="https://www.github/arun-r1147" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=black
-"/>
+ <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=black"/>
 </a>
 </div>
 
