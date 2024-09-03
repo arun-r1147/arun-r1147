@@ -3,7 +3,7 @@
 
 * 💻 I work as a Front end Developer
 * 🌏 I’m from Kochi ,India
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=arun-r1147&label=Profile%20views&color=FF6C37&style=flat" alt="arunr-1147" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-r1147&label=Profile%20views&color=FF6C37&style=flat" alt="arunr-1147" /> </p>
 
  ------------------------------------------------------------------------
 
